@@ -1,0 +1,264 @@
+      
+
+
+            /*header*/
+header{
+    background-image: url(../img/backgroundheader.jpg);
+    background-repeat: repeat-x;
+    text-align: center;
+    width: auto;
+}
+
+
+
+
+header img{
+    text-align: center;
+    margin-top: 250px;
+    width: 900px;
+    
+}
+
+main{
+    background-image: url(../img/background.jpg)
+}
+
+                            /*main*/
+
+h1
+{
+    text-align: center;
+}
+
+
+
+section{
+    margin: 0 auto;
+    background-image: url(../img/background.png);
+    background-size: cover;
+    background-position: bottom;
+    background-color: red;
+    position: cover;
+    border: 5px solid #423A39;
+    height: 900px;
+    position: relative;
+    width:1500px;
+    display: block;
+}
+
+
+main section{
+    position: bottom;
+    display: flex;
+}
+
+
+
+
+
+
+
+.droite-1
+{
+    background-image:url(../img/halloween.png);
+    background-position: -11px -79px;
+}
+
+.droite-2 
+{
+    background-image:url(../img/halloween.png);
+    background-position: -60px -79px;
+}
+
+.droite-3 
+{
+    background-image:url(../img/halloween.png);
+    background-position: -106px -79px;
+}
+.droite-4 
+{
+    background-image:url(../img/halloween.png);
+    background-position: -156px -79px;
+}
+.droite-5 
+{
+    background-image:url(../img/halloween.png);
+    background-position: -207px -79px;
+}
+.droite-6
+{
+    background-image:url(../img/halloween.png);
+    background-position: -252px -79px;
+}
+.droite-7
+{
+    background-image:url(../img/halloween.png);
+    background-position: -302px -79px;
+}
+.droite-8
+{
+    background-image:url(../img/halloween.png);
+    background-position: -353px -79px;
+}
+
+
+
+
+
+.gauche-1
+{
+    background-image:url(../img/halloween.png);
+    background-position: -11px -79px;
+    transform: scaleX(-1);
+}
+
+.gauche-2 
+{
+    background-image:url(../img/halloween.png);
+    background-position: -60px -79px;
+    transform: scaleX(-1);
+}
+
+.gauche-3 
+{
+    background-image:url(../img/halloween.png);
+    background-position: -106px -79px;
+    transform: scaleX(-1);
+}
+.gauche-4 
+{
+    background-image:url(../img/halloween.png);
+    background-position: -156px -79px;
+    transform: scaleX(-1);
+}
+.gauche-5 
+{
+    background-image:url(../img/halloween.png);
+    background-position: -207px -79px;
+    transform: scaleX(-1);
+}
+.gauche-6
+{
+    background-image:url(../img/halloween.png);
+    background-position: -252px -79px;
+    transform: scaleX(-1);
+}
+.gauche-7
+{
+    background-image:url(../img/halloween.png);
+    background-position: -302px -79px;
+    transform: scaleX(-1);
+}
+.gauche-8
+{
+    background-image:url(../img/halloween.png);
+    background-position: -353px -79px;
+    transform: scaleX(-1);
+}
+
+
+#heros
+{    
+    position: absolute;
+    background-repeat: no-repeat;
+    background-image:url(../img/halloween.png);
+    width:46px;
+    height:84px;
+    background-position: -11px -79px;
+    top: 670px;
+}
+
+
+
+#monstre1{
+    background-image:url('../img/monstre1.png');
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    left:0;
+    top:0;
+    position: absolute;
+}
+
+
+#monstre2{
+    background-image:url('../img/monstre2.png');
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    left:300px;
+    top:0;
+    position: absolute;
+    
+
+}
+  
+
+#monstre3{
+    background-image:url('../img/monstre3.png');
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    left:600px;
+    top:0;
+    position: absolute;
+    
+
+}
+
+#monstre4{
+    background-image:url('../img/monstre4.png');
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    left:900px;
+    top:0;
+    position: absolute;
+}
+
+
+
+#monstre5{
+    background-image:url('../img/monstre5.png');
+    width: 110px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    left:1200px;
+    top:0;
+    position: absolute;
+}
+
+
+                            /*footer*/
+
+footer {
+    background-image: url(../img/background.jpg);
+    text-align: center;
+}
+
+
+footer img{
+    text-align: center;
+    width: 200px; 
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+
+a{
+    padding: 15px;
+    color: white;
+    background-color: silver;
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+main{
+    text-align: center;
+}
+
